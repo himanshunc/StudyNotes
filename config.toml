@@ -10,6 +10,7 @@ theme = "github.com/adityatelange/hugo-PaperMod"
   ShowReadingTime = true
   env = "production"
   googleAnalytics = ""
+  customCSS = ["css/custom.css"]
 
 [menu]
   [[menu.main]]
