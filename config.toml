@@ -1,4 +1,3 @@
-
 baseURL = "https://himanshunc.github.io/StudyNotes/"
 languageCode = "en-us"
 title = "AWS Study Notes"
@@ -17,7 +16,12 @@ theme = "github.com/adityatelange/hugo-PaperMod"
   [[menu.main]]
     name = "AWS"
     url = "/aws/vpc/"
-
   [[menu.main]]
     name = "DevOps"
     url = "/devops/"
+
+[frontmatter]
+  weight = ["weight"]
+
+[permalinks]
+  aws = "/aws/:slug/"
