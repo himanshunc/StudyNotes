@@ -13,5 +13,9 @@ theme = "github.com/adityatelange/hugo-PaperMod"
 
 [menu]
   [[menu.main]]
-    name = "AWS VPC"
+    name = "AWS"
     url = "/aws/vpc/"
+
+  [[menu.main]]
+    name = "DevOps"
+    url = "/devops/"
