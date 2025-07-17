@@ -2,7 +2,7 @@
 baseURL = "https://himanshunc.github.io/StudyNotes/"
 languageCode = "en-us"
 title = "AWS Study Notes"
-theme = "PaperMod"
+theme = "github.com/adityatelange/hugo-PaperMod"
 
 [params]
   ShowToc = true
