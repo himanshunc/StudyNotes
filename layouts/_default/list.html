@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <main class="main">
+    <div class="post-list">
+      {{ range .Pages.ByWeight }}
+        {{ partial "li.html" . }}
+      {{ end }}
+    </div>
+  </main>
+{{ end }}
+
