@@ -4,6 +4,7 @@ date: 2025-07-17
 description: "AWS ELB Explained with Concepts, Use Cases & Examples"
 tags: ["aws", "elb"]
 categories: ["AWS"]
+weight: 8
 ---
 
 # 🧠 Layman’s Analogy

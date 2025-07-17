@@ -5,6 +5,7 @@ draft: false
 description: "Understanding AWS VPC with Concepts, Use Cases & Real-World Examples"
 tags: ["AWS", "VPC", "Networking"]
 categories: ["AWS"]
+weight: 15
 ---
 
 ## 🧠 What is a VPC? (Layman’s Understanding)

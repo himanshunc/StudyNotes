@@ -4,6 +4,7 @@ date: 2025-07-17
 description: "Amazon EKS Explained with Concepts, Use Cases & Examples"
 tags: ["aws", "eks", "kubernetes"]
 categories: ["AWS"]
+weight: 7
 ---
 
 # 🧠 Layman’s Analogy

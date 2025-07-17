@@ -4,6 +4,7 @@ date: 2025-07-17
 description: "AWS IAM Explained from Scratch with Concepts, Use Cases & Real Examples"
 tags: ["aws", "iam"]
 categories: ["AWS"]
+weight: 9
 ---
 
 # 🧠 Layman’s Analogy

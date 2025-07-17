@@ -4,6 +4,7 @@ date: 2025-07-17
 description: "Amazon CloudWatch Explained with Concepts, Use Cases & Examples"
 tags: ["aws", "cloudwatch"]
 categories: ["AWS"]
+weight: 3
 ---
 
 # 🧠 Layman’s Analogy

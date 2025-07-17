@@ -4,6 +4,7 @@ date: 2025-07-17
 description: "Amazon EC2 Explained from Scratch with Concepts, Use Cases & Real Examples"
 tags: ["aws", "ec2"]
 categories: ["AWS"]
+weight: 5
 ---
 
 # 🧠 Layman’s Analogy

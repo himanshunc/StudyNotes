@@ -4,6 +4,7 @@ date: 2025-07-17
 description: "AWS CloudFormation Explained with Concepts, Use Cases & Examples"
 tags: ["aws", "cloudformation"]
 categories: ["AWS"]
+weight: 2
 ---
 
 # 🧠 Layman’s Analogy

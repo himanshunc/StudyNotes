@@ -4,6 +4,7 @@ date: 2025-07-17
 description: "AWS Auto Scaling Explained with Concepts, Use Cases & Examples"
 tags: ["aws", "autoscaling"]
 categories: ["AWS"]
+weight: 1
 ---
 
 # 🧠 Layman’s Analogy

@@ -4,6 +4,7 @@ date: 2025-07-17
 draft: true
 description: "Deep dive into Amazon ECS with Layman's Analogy, Concepts, Use Cases, Best Practices, and Examples."
 tags: ["AWS", "ECS", "Containers", "DevOps"]
+weight: 6
 ---
 
 # 🧠 What is ECS? (Layman’s Understanding)

@@ -4,6 +4,7 @@ date: 2025-07-17
 draft: false
 description: "Learn AWS Transit Gateway with a clear analogy, deep explanation, use cases, and visual flow."
 tags: ["AWS", "Transit Gateway", "Networking"]
+weight: 14
 ---
 
 # 🧠 What is Transit Gateway? (Layman’s Understanding)

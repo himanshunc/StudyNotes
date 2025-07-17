@@ -4,6 +4,7 @@ date: 2025-07-17
 draft: false
 description: "Understand AWS Database Migration Service (DMS) with concepts, analogy, and real use cases."
 tags: ["AWS", "DMS", "Database Migration"]
+weight: 4
 ---
 
 # 🧠 What is AWS DMS? (Layman’s Understanding)

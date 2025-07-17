@@ -4,6 +4,7 @@ date: 2025-07-17
 description: "AWS Lambda Explained with Concepts, Use Cases & Examples"
 tags: ["aws", "lambda"]
 categories: ["AWS"]
+weight: 10
 ---
 
 # 🧠 Layman’s Analogy

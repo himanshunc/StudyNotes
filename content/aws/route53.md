@@ -4,6 +4,7 @@ date: 2025-07-17
 description: "Amazon Route 53 DNS Service Explained with Concepts, Use Cases & Examples"
 tags: ["aws", "route53"]
 categories: ["AWS"]
+weight: 12
 ---
 
 # 🧠 Layman’s Analogy

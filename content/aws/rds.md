@@ -4,6 +4,7 @@ date: 2025-07-17
 description: "Amazon RDS Explained with Concepts, Use Cases & Examples"
 tags: ["aws", "rds"]
 categories: ["AWS"]
+weight: 11
 ---
 
 # 🧠 Layman’s Analogy
