@@ -1,0 +1,15 @@
+
+baseURL = "https://himanshunc.github.io/StudyNotes/"
+languageCode = "en-us"
+title = "AWS Study Notes"
+theme = "PaperMod"
+
+[params]
+  ShowToc = true
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+
+[menu]
+  [[menu.main]]
+    name = "AWS VPC"
+    url = "/aws/vpc/"
