@@ -1,7 +1,7 @@
 ---
 title: "Amazon ECS – Explained from Scratch"
 date: 2025-07-17
-draft: false
+draft: true
 description: "Deep dive into Amazon ECS with Layman's Analogy, Concepts, Use Cases, Best Practices, and Examples."
 tags: ["AWS", "ECS", "Containers", "DevOps"]
 ---
