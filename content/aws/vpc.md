@@ -1,5 +1,5 @@
 ---
-title: "AWS VPC"
+title: "VPC"
 date: 2025-07-17
 draft: false
 description: "Understanding AWS VPC with Concepts, Use Cases & Real-World Examples"
