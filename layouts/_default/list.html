@@ -1,10 +1,11 @@
 {{ define "main" }}
-  <main class="main">
-    <div class="post-list">
-      {{ range .Pages.ByWeight }}
-        {{ partial "li.html" . }}
-      {{ end }}
-    </div>
+  <main class="post-list">
+    {{ range sort .Pages.ByWeight "Weight" }}
+      <article>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Summary }}</p>
+      </article>
+    {{ end }}
   </main>
 {{ end }}
 
