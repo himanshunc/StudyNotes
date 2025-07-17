@@ -8,6 +8,8 @@ theme = "github.com/adityatelange/hugo-PaperMod"
   ShowToc = true
   ShowBreadCrumbs = true
   ShowReadingTime = true
+  env = "production"
+  googleAnalytics = ""
 
 [menu]
   [[menu.main]]
